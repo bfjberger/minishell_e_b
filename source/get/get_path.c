@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_path.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/26 11:52:20 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/26 11:53:06 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/26 11:52:20 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/26 11:53:06 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

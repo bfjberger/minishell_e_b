@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   utils.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/11/05 16:49:53 by ebennace          #+#    #+#             */
-/*   Updated: 2022/06/20 15:26:57 by ebennace         ###   ########.fr       */
+/*   Created: 2021/11/05 16:49:53 by bberger          #+#    #+#             */
+/*   Updated: 2022/06/20 15:26:57 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

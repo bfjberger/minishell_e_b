@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   is_separator.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/26 15:11:21 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 16:10:29 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/26 15:11:21 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 16:10:29 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

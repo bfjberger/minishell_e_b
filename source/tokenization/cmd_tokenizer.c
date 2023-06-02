@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   cmd_tokenizer.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/28 15:44:58 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 16:11:03 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/28 15:44:58 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 16:11:03 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

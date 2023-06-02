@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   heredoc.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/09 16:56:27 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 09:17:30 by ebennace         ###   ########.fr       */
+/*   Created: 2022/08/09 16:56:27 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 09:17:30 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

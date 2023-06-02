@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   libft.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/13 15:51:09 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 08:44:11 by ebennace         ###   ########.fr       */
+/*   Created: 2021/10/13 15:51:09 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 08:44:11 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

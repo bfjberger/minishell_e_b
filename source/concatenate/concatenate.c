@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   concatenate.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/26 14:05:45 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/28 07:28:36 by ebennace         ###   ########.fr       */
+/*   Created: 2022/07/26 14:05:45 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/28 07:28:36 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

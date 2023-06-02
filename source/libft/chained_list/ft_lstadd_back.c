@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstadd_back.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/27 17:43:53 by ebennace          #+#    #+#             */
-/*   Updated: 2022/06/20 13:35:25 by ebennace         ###   ########.fr       */
+/*   Created: 2021/10/27 17:43:53 by bberger          #+#    #+#             */
+/*   Updated: 2022/06/20 13:35:25 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

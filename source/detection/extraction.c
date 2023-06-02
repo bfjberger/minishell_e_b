@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   extraction.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/23 19:25:16 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 14:35:01 by ebennace         ###   ########.fr       */
+/*   Created: 2022/07/23 19:25:16 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 14:35:01 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

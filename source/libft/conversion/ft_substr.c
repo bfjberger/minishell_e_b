@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_substr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/21 17:44:40 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/28 17:03:57 by ebennace         ###   ########.fr       */
+/*   Created: 2021/10/21 17:44:40 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/28 17:03:57 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   array.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/28 17:01:24 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/29 08:30:06 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/28 17:01:24 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/29 08:30:06 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

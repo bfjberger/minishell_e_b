@@ -2709,3 +2709,4 @@ printenv
 pwd
 cd ..
 echo hello
+echo hello

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   is_file.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/21 19:50:12 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/26 15:32:40 by ebennace         ###   ########.fr       */
+/*   Created: 2022/07/21 19:50:12 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/26 15:32:40 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/13 18:07:53 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/02 16:24:12 by ebennace         ###   ########.fr       */
+/*   Created: 2021/10/13 18:07:53 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/02 16:24:12 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

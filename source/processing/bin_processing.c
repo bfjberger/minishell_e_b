@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   bin_processing.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/04 16:02:58 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 08:43:45 by ebennace         ###   ########.fr       */
+/*   Created: 2022/08/04 16:02:58 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 08:43:45 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

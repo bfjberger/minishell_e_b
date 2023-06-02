@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   error_cmd.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/03 12:56:49 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 17:07:10 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/03 12:56:49 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 17:07:10 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

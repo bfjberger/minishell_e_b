@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   prompt.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/06/21 14:17:13 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 17:07:14 by ebennace         ###   ########.fr       */
+/*   Created: 2023/06/05 14:17:13 by bberger          #+#    #+#             */
+/*   Updated: 2023/06/05 17:07:14 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,6 +30,9 @@ void	prompt(t_env	*env)
 		free(read_line);
 	}
 }
+// prompt est une boucle infinie 
+// use_signal pour savoir si ctl c ou ctl d sont appele
+// get_line 
 
 void	create_history(char *line)
 {
@@ -39,9 +42,11 @@ void	create_history(char *line)
 	fd = open("history.log", O_CREAT | O_WRONLY | O_APPEND, 0777);
 	write_line(line, fd);
 }
+// add_history (part od readline library) allows the user to recall and reuse previous commands using the arrow keys or other Readline functionality.
 
 void	write_line(char *line, int fd)
 {
 	ft_putstr_fd(line, fd);
 	ft_putstr_fd("\n", fd);
 }
+// mise en place de la fonction ft_pustr_fd de la libft

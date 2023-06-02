@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/29 14:02:21 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/29 14:03:39 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/29 14:02:21 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/29 14:03:39 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

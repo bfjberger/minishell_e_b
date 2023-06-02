@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   verbose_cmd.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/03 12:03:36 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 17:07:10 by ebennace         ###   ########.fr       */
+/*   Created: 2022/08/03 12:03:36 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 17:07:10 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

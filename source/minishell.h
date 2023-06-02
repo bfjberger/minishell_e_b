@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   minishell.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/06/20 17:58:42 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 14:41:32 by ebennace         ###   ########.fr       */
+/*   Created: 2022/06/20 17:58:42 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 14:41:32 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

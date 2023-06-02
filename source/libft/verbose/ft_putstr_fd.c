@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putstr_fd.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/20 19:04:33 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/28 16:51:00 by ebennace         ###   ########.fr       */
+/*   Created: 2021/10/20 19:04:33 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/28 16:51:00 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

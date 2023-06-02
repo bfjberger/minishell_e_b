@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+         #
+#    By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2021/10/13 16:01:52 by ebennace          #+#    #+#              #
-#    Updated: 2022/10/05 17:11:29 by ebennace         ###   ########.fr        #
+#    Created: 2021/10/13 16:01:52 by bberger          #+#    #+#              #
+#    Updated: 2022/10/05 17:11:29 by bberger         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

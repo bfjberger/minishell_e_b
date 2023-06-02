@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   init_env.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/26 14:23:35 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 09:59:15 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/26 14:23:35 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 09:59:15 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   read_line.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/26 11:34:53 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/02 18:35:34 by ebennace         ###   ########.fr       */
+/*   Created: 2023/06/05 11:34:53 by bberger          #+#    #+#             */
+/*   Updated: 2023/06/05 18:35:34 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -95,3 +95,6 @@ char	*get_line(void)
 	tcsetattr(STDIN_FILENO, TCSAFLUSH, &saved);
 	return (line);
 }
+// tcgetattr: terminal attribute: 2args :fd(stdin_filno) contenu du prompt / pointer sur la struct termios ou est stocke l attr
+// attributes.c_lflag &= ~ECHOCTL => turn off the ECHOCTL flag, on ne veut pas voir le Ctl C par exemple
+// tcsetattr(STDIN_FILENO, TCSAFLUSH, &attributes) => appy the modified / updated attr to the terminal

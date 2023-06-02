@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   cmd_have.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/26 15:46:01 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/02 14:53:04 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/26 15:46:01 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/02 14:53:04 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

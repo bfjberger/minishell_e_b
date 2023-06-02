@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   is_quote.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/14 11:27:11 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/26 14:29:11 by ebennace         ###   ########.fr       */
+/*   Created: 2022/07/14 11:27:11 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/26 14:29:11 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

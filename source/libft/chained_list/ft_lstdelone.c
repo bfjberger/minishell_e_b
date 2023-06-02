@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstdelone.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/28 13:32:10 by ebennace          #+#    #+#             */
-/*   Updated: 2022/06/20 13:35:39 by ebennace         ###   ########.fr       */
+/*   Created: 2021/10/28 13:32:10 by bberger          #+#    #+#             */
+/*   Updated: 2022/06/20 13:35:39 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

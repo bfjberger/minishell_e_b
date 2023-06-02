@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parsing.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/19 14:42:15 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/26 15:35:49 by ebennace         ###   ########.fr       */
+/*   Created: 2022/07/19 14:42:15 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/26 15:35:49 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

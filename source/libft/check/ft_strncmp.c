@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strncmp.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/17 17:58:19 by ebennace          #+#    #+#             */
-/*   Updated: 2022/06/22 12:31:37 by ebennace         ###   ########.fr       */
+/*   Created: 2021/10/17 17:58:19 by bberger          #+#    #+#             */
+/*   Updated: 2022/06/22 12:31:37 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

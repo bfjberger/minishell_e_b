@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   disconect.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/28 07:53:19 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/28 07:57:30 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/28 07:53:19 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/28 07:57:30 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

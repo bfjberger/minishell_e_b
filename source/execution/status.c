@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   status.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/26 13:56:26 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/02 16:30:19 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/26 13:56:26 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/02 16:30:19 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   is_built_in.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/06/23 12:06:27 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/26 16:01:58 by ebennace         ###   ########.fr       */
+/*   Created: 2022/06/23 12:06:27 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/26 16:01:58 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

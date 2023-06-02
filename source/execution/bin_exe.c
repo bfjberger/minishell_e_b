@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   bin_exe.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/03 18:36:01 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 08:44:16 by ebennace         ###   ########.fr       */
+/*   Created: 2022/08/03 18:36:01 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 08:44:16 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

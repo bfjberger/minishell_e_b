@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isascii.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/13 17:32:00 by ebennace          #+#    #+#             */
-/*   Updated: 2022/06/20 15:29:04 by ebennace         ###   ########.fr       */
+/*   Created: 2021/10/13 17:32:00 by bberger          #+#    #+#             */
+/*   Updated: 2022/06/20 15:29:04 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   signal.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/06/22 14:07:02 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 17:07:10 by ebennace         ###   ########.fr       */
+/*   Created: 2023/06/05 14:07:02 by bberger          #+#    #+#             */
+/*   Updated: 2023/06/05 17:07:10 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,8 @@ void	use_signal(void)
 	signal(SIGQUIT, pass);
 	signal(SIGINT, call_prompt);
 }
+// signal de la library shell command tool signal.h see man signal. 
+// SIGINT se lance qd on fait ctl C et SIGQUIT se lance pour terminer le process Ctl D
 
 void	call_prompt(int key)
 {

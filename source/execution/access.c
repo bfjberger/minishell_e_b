@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   access.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/02 19:35:35 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/28 07:19:57 by ebennace         ###   ########.fr       */
+/*   Created: 2022/08/02 19:35:35 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/28 07:19:57 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

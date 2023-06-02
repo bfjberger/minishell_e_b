@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   redirect.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/19 15:10:57 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/28 09:19:54 by ebennace         ###   ########.fr       */
+/*   Created: 2022/07/19 15:10:57 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/28 09:19:54 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

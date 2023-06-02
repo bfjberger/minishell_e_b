@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   casting.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/19 18:32:40 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/26 17:04:32 by ebennace         ###   ########.fr       */
+/*   Created: 2022/07/19 18:32:40 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/26 17:04:32 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

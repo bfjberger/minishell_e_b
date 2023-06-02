@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_hexa.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/11/10 17:08:47 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/02 19:09:12 by ebennace         ###   ########.fr       */
+/*   Created: 2021/11/10 17:08:47 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/02 19:09:12 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

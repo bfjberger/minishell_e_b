@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   word_detection.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/07 14:53:41 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/05 11:50:27 by ebennace         ###   ########.fr       */
+/*   Created: 2022/07/07 14:53:41 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/05 11:50:27 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

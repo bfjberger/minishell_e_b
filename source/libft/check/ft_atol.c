@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atol.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/06/20 15:22:46 by ebennace          #+#    #+#             */
-/*   Updated: 2022/06/20 15:28:26 by ebennace         ###   ########.fr       */
+/*   Created: 2022/06/20 15:22:46 by bberger          #+#    #+#             */
+/*   Updated: 2022/06/20 15:28:26 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

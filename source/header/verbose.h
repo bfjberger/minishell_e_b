@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   verbose.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/03 16:34:03 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/02 19:23:32 by ebennace         ###   ########.fr       */
+/*   Created: 2022/08/03 16:34:03 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/02 19:23:32 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

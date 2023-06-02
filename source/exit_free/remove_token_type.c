@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   remove_token_type.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/28 07:58:18 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/28 15:53:50 by ebennace         ###   ########.fr       */
+/*   Created: 2022/09/28 07:58:18 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/28 15:53:50 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

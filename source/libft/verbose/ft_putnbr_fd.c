@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr_fd.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/20 18:59:48 by ebennace          #+#    #+#             */
-/*   Updated: 2022/09/03 15:21:20 by ebennace         ###   ########.fr       */
+/*   Created: 2021/10/20 18:59:48 by bberger          #+#    #+#             */
+/*   Updated: 2022/09/03 15:21:20 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

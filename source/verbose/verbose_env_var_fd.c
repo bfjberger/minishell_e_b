@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   verbose_env_var_fd.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ebennace <ebennace@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/10/02 19:19:58 by ebennace          #+#    #+#             */
-/*   Updated: 2022/10/02 19:21:44 by ebennace         ###   ########.fr       */
+/*   Created: 2022/10/02 19:19:58 by bberger          #+#    #+#             */
+/*   Updated: 2022/10/02 19:21:44 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
