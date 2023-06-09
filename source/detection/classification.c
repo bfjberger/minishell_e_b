@@ -43,6 +43,8 @@ int	word_classification(t_env *env, char *line, int index)
 	}
 	return (new_index);
 }
+// word_detection check if on est entre simple quote ou dbl
+
 
 t_token	*cmd_classification(t_env *env, char *content)
 {

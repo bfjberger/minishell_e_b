@@ -32,7 +32,9 @@ void	prompt(t_env	*env)
 }
 // prompt est une boucle infinie 
 // use_signal pour savoir si ctl c ou ctl d sont appele
-// get_line 
+// get_line: promtpt traitement 
+// line_is_not_empty est un strlen de la str
+// execute_line lance parsing qui est en realite tokensisation
 
 void	create_history(char *line)
 {

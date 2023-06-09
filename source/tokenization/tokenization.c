@@ -30,6 +30,10 @@ void	tokenization(t_env *env, char *line)
 		index++;
 	}
 }
+// line_is_not_finish s'assure qu on n est pas sur le caractere \0 de la str
+//  is_word 
+// word_classification = tokensization  
+
 
 int	single_tokenization(t_cmd *cmd, char *line, int start, int index)
 {

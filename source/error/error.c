@@ -34,6 +34,10 @@ void	check_error_parsing(t_env *env)
 		token = token->next;
 	}
 }
+// initie la struct token, first token est un pointer sur la struc token
+// is_token_cmd verifie si token est une commande, voir la liste des paramettrage du .h
+// meme idee pour les mots et pour les redirections
+// check_error_token_cmd 
 
 int	check_error_token_word(t_env *env, t_token *token)
 {

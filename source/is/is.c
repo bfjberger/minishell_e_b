@@ -53,3 +53,6 @@ int	is_word(t_env *env, char *line, int i)
 		ret = 1;
 	return (ret);
 }
+// is_quote check si on a des simple ou dble quote
+// is_blank check si on a un espace ou tab ou \n
+// is_variable check si 
