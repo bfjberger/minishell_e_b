@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/26 17:59:35 by bberger          #+#    #+#             */
-/*   Updated: 2022/10/02 16:28:27 by bberger         ###   ########.fr       */
+/*   Created: 2023/07/26 17:59:35 by bberger          #+#    #+#             */
+/*   Updated: 2023/10/02 16:28:27 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,10 +30,6 @@ void	tokenization(t_env *env, char *line)
 		index++;
 	}
 }
-// line_is_not_finish s'assure qu on n est pas sur le caractere \0 de la str
-//  is_word 
-// word_classification = tokensization  
-
 
 int	single_tokenization(t_cmd *cmd, char *line, int start, int index)
 {

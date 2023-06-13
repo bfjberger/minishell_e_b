@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/06/05 14:07:02 by bberger          #+#    #+#             */
-/*   Updated: 2023/06/05 17:07:10 by bberger         ###   ########.fr       */
+/*   Created: 2023/06/22 14:07:02 by bberger          #+#    #+#             */
+/*   Updated: 2023/10/05 17:07:10 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,8 +17,6 @@ void	use_signal(void)
 	signal(SIGQUIT, pass);
 	signal(SIGINT, call_prompt);
 }
-// signal de la library shell command tool signal.h see man signal. 
-// SIGINT se lance qd on fait ctl C et SIGQUIT se lance pour terminer le process Ctl D
 
 void	call_prompt(int key)
 {

@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/26 15:16:16 by bberger          #+#    #+#             */
-/*   Updated: 2022/10/05 17:04:13 by bberger         ###   ########.fr       */
+/*   Created: 2023/09/26 15:16:16 by bberger          #+#    #+#             */
+/*   Updated: 2023/10/05 17:04:13 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,7 +39,6 @@ int	is_variable_word(char *line, int i)
 		return (1);
 	return (0);
 }
-// is_variable_word check if the caractere is a $ which is related to a env var needed
 
 int	variable_exist(t_env *env, char *name)
 {
@@ -85,6 +84,3 @@ char	*variable_name_extraction(char *line, int index)
 	name = malloc_substrcpy(line, start, end);
 	return (name);
 }
-
-// variable_name_extraction 
-// is_variable_delimiter 

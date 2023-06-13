@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/12 14:35:14 by bberger          #+#    #+#             */
-/*   Updated: 2022/10/05 17:07:10 by bberger         ###   ########.fr       */
+/*   Created: 2023/08/12 14:35:14 by bberger          #+#    #+#             */
+/*   Updated: 2023/10/05 17:07:10 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,10 +34,6 @@ void	check_error_parsing(t_env *env)
 		token = token->next;
 	}
 }
-// initie la struct token, first token est un pointer sur la struc token
-// is_token_cmd verifie si token est une commande, voir la liste des paramettrage du .h
-// meme idee pour les mots et pour les redirections
-// check_error_token_cmd 
 
 int	check_error_token_word(t_env *env, t_token *token)
 {

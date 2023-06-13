@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/26 14:30:40 by bberger          #+#    #+#             */
-/*   Updated: 2022/10/05 16:11:02 by bberger         ###   ########.fr       */
+/*   Created: 2023/07/26 14:30:40 by bberger          #+#    #+#             */
+/*   Updated: 2023/10/05 16:11:02 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,8 +43,6 @@ int	word_classification(t_env *env, char *line, int index)
 	}
 	return (new_index);
 }
-// word_detection check if on est entre simple quote ou dbl
-
 
 t_token	*cmd_classification(t_env *env, char *content)
 {

@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/06 12:53:15 by bberger          #+#    #+#             */
-/*   Updated: 2022/10/05 12:05:30 by bberger         ###   ########.fr       */
+/*   Created: 2023/07/06 12:53:15 by bberger          #+#    #+#             */
+/*   Updated: 2023/10/05 12:05:30 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -53,6 +53,3 @@ int	is_word(t_env *env, char *line, int i)
 		ret = 1;
 	return (ret);
 }
-// is_quote check si on a des simple ou dble quote
-// is_blank check si on a un espace ou tab ou \n
-// is_variable check si 

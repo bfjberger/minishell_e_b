@@ -6,7 +6,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Jun 20 15:26:14 2022
+# Make data base, printed on Mon Jun 20 15:26:14 2023
 
 # Variables
 
@@ -284,7 +284,7 @@ check/ft_strtrim.o:
 # Not a target:
 check/ft_isdigit.c:
 #  Implicit rule search has been done.
-#  Last modified 2022-06-20 13:58:23.680000934
+#  Last modified 2023-06-20 13:58:23.680000934
 #  File has been updated.
 #  Successfully updated.
 
@@ -367,7 +367,7 @@ printf/ft_check_format.o:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-06-20 15:26:11.640001318
+#  Last modified 2023-06-20 15:26:11.640001318
 #  File has been updated.
 #  Successfully updated.
 
@@ -670,6 +670,6 @@ free/free.o:
 # strcache performance: lookups = 153 / hit rate = 39%
 # hash-table stats:
 # Load=93/8192=1%, Rehash=0, Collisions=0/153=0%
-# Finished Make data base on Mon Jun 20 15:26:14 2022
+# Finished Make data base on Mon Jun 20 15:26:14 2023
 
  

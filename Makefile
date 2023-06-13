@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: bberger <bberger@student.42lausanne.ch>    +#+  +:+       +#+         #
+#    By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2023/06/02 17:58:32 by bberger           #+#    #+#              #
-#    Updated: 2023/06/02 13:41:39 by bberger          ###   ########.fr        #
+#    Created: 2023/05/31 17:58:32 by bberger          #+#    #+#              #
+#    Updated: 2023/10/05 14:50:28 by bberger         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

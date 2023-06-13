@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   is_separator.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bberger <bberger@student.42lausanne.c    	+#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/26 15:11:21 by bberger           #+#    #+#             */
-/*   Updated: 2022/10/05 16:10:29 by bberger          ###   ########.fr       */
+/*   Created: 2023/09/26 15:11:21 by bberger          #+#    #+#             */
+/*   Updated: 2023/10/05 16:10:29 by bberger         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,8 +20,6 @@ int	is_separator(char *line, int i)
 		return (1);
 	return (0);
 }
-// index_is_over_flow check si index est sup au strlen de la str
-// is_redirection check si le caractere est un pipe chevron ou heredoc
 
 int	is_delimiter(t_env *env, char *line, int index)
 {
@@ -30,8 +28,6 @@ int	is_delimiter(t_env *env, char *line, int index)
 		return (1);
 	return (0);
 }
-// 
-
 
 int	is_variable_delimiter(char *line, int index)
 {

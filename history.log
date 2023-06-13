@@ -2708,7 +2708,8 @@ echo hello
 printenv
 pwd
 cd ..
-echo hello
-echo hello
-echo "hello"
-
+pwd
+ls -la
+pwd
+make fclean
+pwd
