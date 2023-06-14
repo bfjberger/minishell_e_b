@@ -25,7 +25,7 @@ int	main(int argc, char **argv, char **env_var)
 	//alloc d un espace memoire pour y mettre le tab de str de env (prinenv)
 	env = init_env(env_variable);
 	// initatialisation de la structure env + mise en liste chainee du contenu du tab de env + ajout d'un ligne pou incorporer la variable error
-	ask_verbose(env);
+	// ask_verbose(env);
 	// mise en place du suivi du contenu a ne pas laisser pour la correction
 	prompt(env);
 	// minishell commence avec le traitement des args dans le prompt

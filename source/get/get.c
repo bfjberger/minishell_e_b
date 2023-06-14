@@ -47,6 +47,8 @@ t_var	*get_env_var_with_name(t_env *env, char *name)
 	}
 	return (0);
 }
+// get_first_env_var check is firat env est diff de 0
+// same_name check si name est le meme, sinon on passe au suivant. ici name est un point d interrogation
 
 t_var	*get_first_env_var(t_env *env)
 {

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   status.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/09/26 13:56:26 by bberger          #+#    #+#             */
-/*   Updated: 2023/10/02 16:30:19 by bberger         ###   ########.fr       */
+/*   Created: 2023/09/26 13:56:26 by bberger           #+#    #+#             */
+/*   Updated: 2023/06/14 13:32:46 by bberger          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,3 +46,7 @@ void	update_variable_status_process(t_env *env, int status)
 	}
 	change_env_var_value(var, value);
 }
+// status est fixe a 130
+// change_env_var_value: on change la var par value
+
+

@@ -2713,3 +2713,6 @@ ls -la
 pwd
 make fclean
 pwd
+pwd
+pwd
+./minisehll

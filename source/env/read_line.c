@@ -26,6 +26,8 @@ void	execute_line(t_env *env, char *line)
 	reset_counter_error(env);
 	remove_all_token(env);
 }
+// parsing est en fait tokenization
+
 
 int	env_have_multi_line(t_env *env)
 {
@@ -95,3 +97,15 @@ char	*get_line(void)
 	tcsetattr(STDIN_FILENO, TCSAFLUSH, &saved);
 	return (line);
 }
+// tcgetattr takes comme args: the terminal fd (ici: STDIN_FILENO) et un pointer sur la structure termios (ici l adresse de saved)
+// tcg... recupere les attributs du terminal et le store dans la struct
+// attributes.c_lflag &= ~ECHOCTL  sert a disable le flag ECHOCTL
+// tcsetattr : change the attributs d un terminal; TCSAFLUSH est un flag specifiant que tout chgt doit s effectuer apres que toutes
+// les sorties aient ete ecrites
+// readline librairie...
+// create_history 
+
+
+
+
+

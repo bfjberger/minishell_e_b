@@ -30,6 +30,10 @@ void	prompt(t_env	*env)
 		free(read_line);
 	}
 }
+// use_signal lance pass et call_prompt
+// line_is_not_empty check si on a depasse le dernier caractere
+
+
 
 void	create_history(char *line)
 {
@@ -39,6 +43,8 @@ void	create_history(char *line)
 	fd = open("history.log", O_CREAT | O_WRONLY | O_APPEND, 0777);
 	write_line(line, fd);
 }
+// add_history belongs to read_line lib
+
 
 void	write_line(char *line, int fd)
 {

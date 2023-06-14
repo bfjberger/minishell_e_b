@@ -17,6 +17,9 @@ void	use_signal(void)
 	signal(SIGQUIT, pass);
 	signal(SIGINT, call_prompt);
 }
+// on fait ctl+ la fct pass. pass lance la fct rl_on_new_line de readline
+// on fait ctl+c la fct call_prompt 
+
 
 void	call_prompt(int key)
 {
@@ -27,12 +30,18 @@ void	call_prompt(int key)
 	rl_redisplay();
 	update_variable_status_process(g_env, 130);
 }
+// rl_replace_line remplace la ligne par une ligne vide
+// rl_on_new_line : replace le cursor a une autre ligne
+// rl_redisplay: display the modified line
+// update_variable_status_process: 
+
 
 void	pass(int key)
 {
 	(void)key;
 	rl_on_new_line();
 }
+// rl_on_new_line : replace le cursor a une autre ligne
 
 void	exit_prompt(int key)
 {
