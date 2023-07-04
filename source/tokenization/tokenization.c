@@ -30,6 +30,9 @@ void	tokenization(t_env *env, char *line)
 		index++;
 	}
 }
+// line is not finish: check if index is on the last char of line or if char is /0
+// is_word : check simple or dle quote, tab or space or new line, redireection or varaiable
+// word_classification:   
 
 int	single_tokenization(t_cmd *cmd, char *line, int start, int index)
 {

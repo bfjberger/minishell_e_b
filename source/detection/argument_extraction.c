@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   argument_extraction.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/07/20 17:13:01 by bberger          #+#    #+#             */
-/*   Updated: 2023/09/28 09:25:49 by bberger         ###   ########.fr       */
+/*   Created: 2023/07/20 17:13:01 by bberger           #+#    #+#             */
+/*   Updated: 2023/06/20 15:35:21 by bberger          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,3 +30,6 @@ int	argument_extraction(t_env *env, t_cmd *cmd, char *line, int index)
 	}
 	return (new_index);
 }
+// on trie les arguments
+// if we have a flag, flags_tokenizer ajoute le flag a la liste     
+//   

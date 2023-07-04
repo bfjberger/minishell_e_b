@@ -32,6 +32,7 @@ void	prompt(t_env	*env)
 }
 // use_signal lance pass et call_prompt
 // line_is_not_empty check si on a depasse le dernier caractere
+// execute_line: 
 
 
 

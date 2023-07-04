@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_env.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/09/26 11:47:20 by bberger          #+#    #+#             */
-/*   Updated: 2023/10/02 16:42:38 by bberger         ###   ########.fr       */
+/*   Created: 2023/09/26 11:47:20 by bberger           #+#    #+#             */
+/*   Updated: 2023/06/15 14:17:24 by bberger          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,7 +30,7 @@ char	**get_env_bins(t_env *env)
 		return (NULL);
 	bins = ft_split(path, ':');
 	return (bins);
-}
+} 
 
 t_line	*get_first_line(t_env *env)
 {

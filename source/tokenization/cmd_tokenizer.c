@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   cmd_tokenizer.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bberger <bberger@student.42lausanne.c    +#+  +:+       +#+        */
+/*   By: bberger <bberger@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/09/28 15:44:58 by bberger          #+#    #+#             */
-/*   Updated: 2023/10/05 16:11:03 by bberger         ###   ########.fr       */
+/*   Created: 2023/09/28 15:44:58 by bberger           #+#    #+#             */
+/*   Updated: 2023/06/20 13:48:07 by bberger          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,6 +25,8 @@ int	cmd_tokenizer(t_env *env, char *line, char *content, int index)
 	add_token_list(env, token);
 	return (index);
 }
+// cmd_classification initie la struct token
+// 
 
 t_arg	*arg_tokenizer(char *line, int start, int end, int id)
 {

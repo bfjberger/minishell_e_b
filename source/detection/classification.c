@@ -43,6 +43,8 @@ int	word_classification(t_env *env, char *line, int index)
 	}
 	return (new_index);
 }
+// word_detection: gives the index of the str where a word is
+// is_cmd: check if str is a built in or 
 
 t_token	*cmd_classification(t_env *env, char *content)
 {
@@ -59,6 +61,8 @@ t_token	*cmd_classification(t_env *env, char *content)
 	}
 	return (token);
 }
+// check if content is a built_in
+// or if it is a bin (env and path ave a name and a value)  , then initialize token
 
 int	arg_classification(t_env *env, t_cmd *cmd, char *line, int index)
 {
